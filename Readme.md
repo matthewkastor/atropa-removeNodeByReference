@@ -7,20 +7,12 @@ Remove DOM Nodes without messing around.
 The current published version:
 
 ```
-npm install atropa-removeNodeByReference
-```
-
-The bleeding edge development version:
-
-```
 npm install git+https://github.com/matthewkastor/atropa-removeNodeByReference.git#master
 ```
 
 For some packages I simply publish to the `gh-pages` branch since it's easier to
  generate web docs in the repo and push the whole thing. Check the repo
  if you try installing the `master` branch and don't get what you expect.
-
-This package lives at: [https://npmjs.org/package/atropa-removeNodeByReference](https://npmjs.org/package/atropa-removeNodeByReference)
 
 Source code available at: [https://github.com/matthewkastor/atropa-removeNodeByReference/](https://github.com/matthewkastor/atropa-removeNodeByReference/)
 
