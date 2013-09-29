@@ -1,6 +1,6 @@
 {
     "name": "atropa-removeNodeByReference",
-    "version": "2013.09.27-2431",
+    "version": "2013.09.29-141",
     "description": "Remove DOM Nodes without messing around.",
     "main": "./src/atropa-removeNodeByReference.js",
     "directories": {
