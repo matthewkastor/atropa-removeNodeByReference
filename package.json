@@ -1,6 +1,6 @@
 {
   "name": "atropa-removeNodeByReference",
-  "version": "2014.1.2",
+  "version": "2014.2.1",
   "description": "Remove DOM Nodes without messing around.",
   "main": "./src/atropa-removeNodeByReference.js",
   "directories": {
@@ -21,7 +21,7 @@
     "lint": "atropa-jslint ./src/atropa-removeNodeByReference.js",
     "srcFormat": "atropa-jsformatter ./src/atropa-removeNodeByReference.js ./src/atropa-removeNodeByReference.js",
     "pretest": "node dev/browserify.js",
-    "buildVsdocs": "jsdoc-toolkit -v -d=./docs/vsdoc/ -t=./dev/vsdoc/ -r -s node_modules/atropa-header/src/ src/"
+    "buildVsdocs": "jsdoc-toolkit -v -d=./docs/vsdoc/ -t=./node_modules/jsdoc-toolkit/templates/vsdoc/ -r -s node_modules/atropa-header/src/ src/"
   },
   "homepage": "https://github.com/matthewkastor/atropa-removeNodeByReference/",
   "bugs": "https://github.com/matthewkastor/atropa-removeNodeByReference/issues",
